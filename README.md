@@ -2,9 +2,9 @@ Hi there! My name is @shubham1888 and I am a programmer with a passion for codin
 
 You can find me on social media at the following links:
 
-Twitter: https://twitter.com/Shubhamshah1888
-Facebook: ...
-Instagram: ...
-I also have a website where you can learn more about me and my work: ...
+Twitter: [https://twitter.com/Shubhamshah1888](https://twitter.com/shahshubham1888)
+Facebook: [...](https://www.facebook.com/shubham.shah.1888)
+Instagram: [...](https://www.instagram.com/dev.life.20/)
+I also hafve a website where you can learn more about me and my work: ...
 
 I believe that with hard work and dedication, anyone can learn to code and make a positive impact on the world. Whether you're just starting out on your programming journey or you're an experienced coder looking for new challenges, I hope to share my experiences and insights with you and help you achieve your goals.
