@@ -1,6 +1,7 @@
 Hi there! My name is @shubham1888 and I am a programmer with a passion for coding, exploring new things, and inspiring and motivating others. I have a strong background in HTML, CSS, JavaScript, React, NextJS, and Linux, and I am always eager to learn more and expand my skillset. In my spare time, you'll find me tinkering with new technologies and ideas, and always striving to improve my skills and knowledge.
 
 You can find me on social media at the following links:
+<br/>
 Mail: [Mail me](mailto:shahshubham1888@gmail.com)
 <br/>
 Twitter: [Twitter/X](https://twitter.com/shahshubham1888)
